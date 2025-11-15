@@ -2,6 +2,13 @@
 
 > Encode files as colorful PNG images and decode them back!
 
+# Preview
+Here is a encoded image of a rar file
+
+![rar](./preview/rar.png)
+
+Also, check `preview` folder for more images.
+
 ## Features
 - **Encode** any file into a colorful PNG image
 - **Decode** images back to original files  
